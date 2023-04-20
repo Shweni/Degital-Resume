@@ -1,5 +1,5 @@
 .hero-image{
-    background-color: rgba(0, 0, 0, 0,7);
+    background-color:rgb(54, 49, 49);
     background-image:url(../Images/images1997-5c2f99436aa28-1024x683.jpg);
     background-position: center;
     height: 100%;
@@ -37,7 +37,7 @@ padding: 1px;
 }
 
 .hero-image{
-    background-image: linear-gradient(rgba(0,0,0,0)) 
+    background-image: linear-gradient(rgba(195, 182, 182, 0)) 
 
 }
 
@@ -46,7 +46,7 @@ h1{
     background-position:left;
 }
 
-p{color: rgb(12, 11, 11);
+p{color: rgba(121, 103, 220, 0.901);
 
 }
 
